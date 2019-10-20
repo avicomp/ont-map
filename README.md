@@ -1,5 +1,10 @@
 # ONT-MAP - an OWL2 ontology to ontology data mapper (builder and inference engine).
 
+## Notice
+**The activity in this repository is frozen.
+The new project's home is https://github.com/owlcs/ont-map**
+
+
 ## Summary
 **ONT-MAP** provides a convenient way to build a mapping between two [OWL2](https://www.w3.org/TR/owl2-overview/) ontologies 
 and also an inference-engine to transfer and transform the ontological data in accordance with that mapping and OWL2 schemas. 
